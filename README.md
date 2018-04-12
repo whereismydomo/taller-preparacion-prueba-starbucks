@@ -19,7 +19,7 @@ Recrea el siguiente landing page de **Starbucks**.
 
 ### Para tomar en cuenta:
 
-- Descarga los recursos del [repositorio de la Academia](https://github.com/DesafioLatam) llamado **taller-preparacion-prueba-starbucks**.
+- Descargar los recursos desde la carpeta assets del repositorio.
 - Se debe utilizar **GIT para el control de versiones**.
 - Buenas prácticas y uso de identado correcto.
 - Agregar el CSS en una **hoja de estilo externa**.
