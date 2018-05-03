@@ -1,0 +1,1 @@
+Github pages: https://whereismydomo.github.io/taller-preparacion-prueba-starbucks/assets/index.html
